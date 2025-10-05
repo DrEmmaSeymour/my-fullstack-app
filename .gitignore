@@ -1,0 +1,25 @@
+# === Node.js / Vite ===
+node_modules/
+dist/
+.env
+.vite/
+.cache/
+*.log
+
+# === Java / Maven / Gradle ===
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+.gradle/
+.idea/
+*.iml
+
+# === OS / Editor Files ===
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
